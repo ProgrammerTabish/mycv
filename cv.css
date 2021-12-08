@@ -1,0 +1,129 @@
+body {
+  background-color: #F1F7E7;
+}
+table {
+	border-collapse: collapse;
+}
+hr {
+  border-color: gray;
+  border-style: dotted none none;
+  heingt: 0px;
+  border-width: 10px;
+  width: 20%;
+}
+h1 {
+    color:black ;
+}
+h2 {
+  color:#160040
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+  background-color:#864879;
+}
+.youtube {
+  background-color:#FF0000;
+  border: 1px;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+
+}
+.facebook {
+  background-color:#43609C;
+  border: 1px;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+
+}
+.twitter {
+  background-color:#0084b4;
+  border: 1px;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+
+}
+.instagram {
+  background-color:#FF00E4;
+  border: 1px;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 8px;
+
+}
+.resume
+  {
+    background-color:#B3541E;
+    border: 1px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+
+}
+.docs
+  {
+    background-color:#A13333;
+    border: 1px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+
+}
+.projects
+  {
+    background-color:#8E05C2;
+    border: 1px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+
+}
+.photos
+  {
+    background-color:#6E85B2;
+    border: 1px;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+
+}
+hr.line{
+  border: 5px solid green;
+ border-radius: 5px;
+}
